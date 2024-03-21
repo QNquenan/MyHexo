@@ -172,6 +172,20 @@
   </url>
   
   <url>
+    <loc>https://www.quenan.love/tags/VM/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/tags/Pe/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.quenan.love/tags/CDN/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,14 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/VM/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/tags/Pe/</loc>
+    <loc>https://www.quenan.love/tags/Python/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,13 +222,6 @@
   
   <url>
     <loc>https://www.quenan.love/tags/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/tags/Python/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -251,13 +251,6 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.quenan.love/categories/VM/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -265,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/Mui/</loc>
+    <loc>https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,6 +273,13 @@
   
   <url>
     <loc>https://www.quenan.love/categories/Python/</loc>
+    <lastmod>2024-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/categories/Mui/</loc>
     <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
