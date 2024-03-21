@@ -1,0 +1,1 @@
+var CURSOR;class Cursor{constructor(){this.bar=document.createElement("div"),this.bar.id="bar",document.body.append(this.bar)}}new Cursor;
