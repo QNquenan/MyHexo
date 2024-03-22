@@ -1,1 +1,1 @@
-var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="o(≧口≦)o快回来",clearTimeout(titleTime)):(document.title="ヾ(≧▽≦*)o嘿嘿~",titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));
+var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",(function(){document.hidden?(document.title="(o゜▽゜)o☆人呢人呢",clearTimeout(titleTime)):(document.title="ヾ(≧▽≦*)o捉~",titleTime=setTimeout((function(){document.title=OriginTitile}),2e3))}));
