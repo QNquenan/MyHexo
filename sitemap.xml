@@ -181,7 +181,14 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/Python/</loc>
+    <loc>https://www.quenan.love/tags/VM/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/tags/Pe/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -202,14 +209,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/VM/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/tags/Pe/</loc>
+    <loc>https://www.quenan.love/tags/Python/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -260,7 +260,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/Python/</loc>
+    <loc>https://www.quenan.love/categories/VM/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/VM/</loc>
+    <loc>https://www.quenan.love/categories/Python/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
