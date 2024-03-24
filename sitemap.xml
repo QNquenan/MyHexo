@@ -204,20 +204,6 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/CDN/</loc>
-    <lastmod>2024-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/tags/%E6%B8%BA%E8%BD%AF/</loc>
-    <lastmod>2024-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.quenan.love/tags/Python/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -252,6 +238,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.quenan.love/tags/CDN/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/tags/%E6%B8%BA%E8%BD%AF/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -276,7 +276,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.quenan.love/categories/Python/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -284,13 +284,6 @@
   
   <url>
     <loc>https://www.quenan.love/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/categories/Python/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -305,6 +298,13 @@
   
   <url>
     <loc>https://www.quenan.love/categories/Css/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
