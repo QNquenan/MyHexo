@@ -49,9 +49,9 @@
       
         <tags>
             
-            <tag> Artitalk </tag>
-            
             <tag> Butterfly </tag>
+            
+            <tag> Artitalk </tag>
             
             <tag> 说说 </tag>
             
@@ -162,9 +162,9 @@
       
       <categories>
           
-          <category> 笔记 </category>
-          
           <category> Python </category>
+          
+          <category> 笔记 </category>
           
       </categories>
       
@@ -218,9 +218,9 @@
       
       <categories>
           
-          <category> 笔记 </category>
-          
           <category> Mui </category>
+          
+          <category> 笔记 </category>
           
           <category> 前端 </category>
           
