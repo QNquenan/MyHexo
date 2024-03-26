@@ -49,9 +49,9 @@
       
         <tags>
             
-            <tag> Butterfly </tag>
-            
             <tag> Artitalk </tag>
+            
+            <tag> Butterfly </tag>
             
             <tag> 说说 </tag>
             
@@ -140,11 +140,11 @@
       
         <tags>
             
-            <tag> 笔记 </tag>
-            
             <tag> 激活 </tag>
             
             <tag> IDM </tag>
+            
+            <tag> 笔记 </tag>
             
         </tags>
       
@@ -162,9 +162,9 @@
       
       <categories>
           
-          <category> Python </category>
-          
           <category> 笔记 </category>
+          
+          <category> Python </category>
           
       </categories>
       
@@ -218,9 +218,9 @@
       
       <categories>
           
-          <category> Mui </category>
-          
           <category> 笔记 </category>
+          
+          <category> Mui </category>
           
           <category> 前端 </category>
           
@@ -289,9 +289,9 @@
       
         <tags>
             
-            <tag> CDN </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> CDN </tag>
             
             <tag> 渺软 </tag>
             
