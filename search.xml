@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>用Xd画一个文章封面</title>
+      <link href="/posts/29665.html"/>
+      <url>/posts/29665.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="XD下载地址（学习版）"><a href="#XD下载地址（学习版）" class="headerlink" title="XD下载地址（学习版）"></a>XD下载地址（学习版）</h2><p><a href="https://www.123pan.com/s/iXN7Vv-i9mJv.html">123网盘下载</a></p><h2 id="确定主题，选择背景"><a href="#确定主题，选择背景" class="headerlink" title="确定主题，选择背景"></a>确定主题，选择背景</h2><p>想要画个封面，首先要确定自己的主题。比如我们的标题是 <strong>Python下载图片</strong> 那么我们的主题就可以选 <strong>Python</strong> 、 <strong>编程</strong> 等</p><p>然后去搜索引擎搜索确定好的主题，点击图片，选择自己满意的图片。</p><p>选择图片不用看：</p><ul><li>清晰度</li><li>好不好看</li></ul><p>因为背景都是用来模糊处理的</p><h2 id="导入XD，开始制作"><a href="#导入XD，开始制作" class="headerlink" title="导入XD，开始制作"></a>导入XD，开始制作</h2><ol><li><p>打开xd，选择 <strong>Web 1920</strong> </p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/1.webp" alt="1"></p></li><li><p>拖动图片至xd中，点击右边小锁解锁大小限制</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/2.webp" alt="2"></p></li><li><p>调整图片大小直至填满屏幕</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/3.webp" alt="3"></p></li><li><p>右侧下滑找到 <strong>背景模糊</strong> ，将其改为 <strong>对象模糊</strong>，并将进度条拉满</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/4.webp" alt="4"></p></li><li><p>添加图标，我这边选择使用 <strong>阿里巴巴图标库</strong> </p><div class="tag link"><a class="link-card" title="阿里巴巴图标库" href="https://www.iconfont.cn/"><div class="left"><img src="/img/link.png"/></div><div class="right"><p class="text">阿里巴巴图标库</p><p class="url">https://www.iconfont.cn/</p></div></a></div><p>选择图标，搜索自己需要的图标</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/5.webp" alt="5"></p></li><li><p>找到自己满意的图标后将鼠标放上去，点击下载图标；</p><p>在这页面可以配置颜色大小，我们保持默认，点击 <strong>复制SVG代码</strong></p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/6.webp" alt="6"></p></li><li><p>回到xd，按下 <kbd>Ctrl</kbd> + <kbd>V</kbd> 粘贴 SVG 代码。</p></li><li><p>按住 <kbd>Shift</kbd> 拖动图标四个角缩放图标，点击右侧顶部的垂直居中按钮</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/7.webp" alt="7"></p></li><li><p>输入标题，点击左侧工具栏的 <strong>T</strong> 或者 按下 <kbd>T</kbd> 输入。输入完成点击别处取消焦点。</p></li><li><p>拉动文本框下小白点缩放文字，在右侧选择文字字体，我比较喜欢用 <strong>方正超粗黑简体</strong> </p></li><li><p>点击填充更改字体颜色</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/8.webp" alt="8"></p></li><li><p>与第8步一样，使标题垂直居中</p></li><li><p>按住 <kbd>Shift</kbd> 选中图标和标题，按下 <kbd>G</kbd> 合并</p></li><li><p>点击右侧的水平，垂直居中按钮</p><p><img src="https://tuchuang.voooe.cn/images/2024/03/27/9.webp" alt="9"></p></li><li><p>点击顶部 <strong>文件</strong> -&gt; <strong>导出</strong> -&gt; <strong>所有画板</strong> -&gt; <strong>导出所有画板</strong> </p></li></ol><p>这样，你就获得了个文章封面</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> Xd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>自用的bf导航栏魔改</title>
       <link href="/posts/32069.html"/>
       <url>/posts/32069.html</url>
@@ -49,9 +76,9 @@
       
         <tags>
             
-            <tag> Butterfly </tag>
-            
             <tag> Artitalk </tag>
+            
+            <tag> Butterfly </tag>
             
             <tag> 说说 </tag>
             
@@ -80,9 +107,9 @@
       
         <tags>
             
-            <tag> Css </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> Css </tag>
             
             <tag> 超链接 </tag>
             
@@ -111,9 +138,9 @@
       
         <tags>
             
-            <tag> Css </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> Css </tag>
             
         </tags>
       
@@ -229,9 +256,9 @@
       
         <tags>
             
-            <tag> 前端 </tag>
-            
             <tag> Mui </tag>
+            
+            <tag> 前端 </tag>
             
             <tag> 移动应用 </tag>
             
