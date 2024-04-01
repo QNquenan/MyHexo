@@ -15,9 +15,9 @@
           
           <category> Mui </category>
           
-          <category> 移动应用 </category>
-          
           <category> 前端 </category>
+          
+          <category> 移动应用 </category>
           
       </categories>
       
@@ -55,11 +55,11 @@
       
         <tags>
             
+            <tag> 博客 </tag>
+            
             <tag> Butterfly </tag>
             
             <tag> 说说 </tag>
-            
-            <tag> 博客 </tag>
             
         </tags>
       
@@ -140,9 +140,9 @@
       
         <tags>
             
-            <tag> Artitalk </tag>
-            
             <tag> Butterfly </tag>
+            
+            <tag> Artitalk </tag>
             
             <tag> 说说 </tag>
             
@@ -162,9 +162,9 @@
       
       <categories>
           
-          <category> Css </category>
-          
           <category> 前端 </category>
+          
+          <category> Css </category>
           
       </categories>
       
@@ -193,9 +193,9 @@
       
       <categories>
           
-          <category> Css </category>
-          
           <category> 前端 </category>
+          
+          <category> Css </category>
           
       </categories>
       
@@ -311,9 +311,9 @@
           
           <category> Mui </category>
           
-          <category> 移动应用 </category>
-          
           <category> 前端 </category>
+          
+          <category> 移动应用 </category>
           
       </categories>
       
@@ -322,9 +322,9 @@
             
             <tag> Mui </tag>
             
-            <tag> 前端 </tag>
-            
             <tag> 移动应用 </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -371,9 +371,9 @@
       
       <categories>
           
-          <category> 博客 </category>
-          
           <category> 笔记 </category>
+          
+          <category> 博客 </category>
           
       </categories>
       
