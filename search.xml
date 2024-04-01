@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Mui学习资料总结</title>
+      <link href="/posts/19977.html"/>
+      <url>/posts/19977.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>关于学习 <code>Mui</code> 框架的一些资料总结</p><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div class="table-container"><table><thead><tr><th style="text-align:center">备注</th><th style="text-align:center">链接</th></tr></thead><tbody><tr><td style="text-align:center">【跨平台APP开发框 架- MUI全套教程】</td><td style="text-align:center"><a href="https://www.bilibili.com/video/BV1Wt4y1k721?vd_source=f363d79bca9571a905e18dad7d7469d0">https://www.bilibili.com/video/BV1Wt4y1k721?vd_source=f363d79bca9571a905e18dad7d7469d0</a></td></tr><tr><td style="text-align:center">【MUI APP】</td><td style="text-align:center"><a href="https://www.bilibili.com/video/BV1yh411d7NU?vd_source=f363d79bca9571a905e18dad7d7469d0">https://www.bilibili.com/video/BV1yh411d7NU?vd_source=f363d79bca9571a905e18dad7d7469d0</a></td></tr><tr><td style="text-align:center">【MUI 01 课程介绍】</td><td style="text-align:center"><a href="https://www.bilibili.com/video/BV1Z841187Q4?vd_source=f363d79bca9571a905e18dad7d7469d0">https://www.bilibili.com/video/BV1Z841187Q4?vd_source=f363d79bca9571a905e18dad7d7469d0</a></td></tr></tbody></table></div><h2 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h2><div class="table-container"><table><thead><tr><th style="text-align:center">备注</th><th style="text-align:center">链接</th></tr></thead><tbody><tr><td style="text-align:center">HTML5+ API文档【webview】</td><td style="text-align:center"><a href="https://www.dcloud.io/docs/api/zh_cn/webview.html">https://www.dcloud.io/docs/api/zh_cn/webview.html</a></td></tr><tr><td style="text-align:center">websocket详情资料参考</td><td style="text-align:center"><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket">https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket</a></td></tr><tr><td style="text-align:center">Mui简易使用教程-ZeFeng</td><td style="text-align:center"><a href="https://00feng00.github.io/2018/11/18/mui-instructions/">https://00feng00.github.io/2018/11/18/mui-instructions/</a></td></tr><tr><td style="text-align:center">Hello mui 线上演示地址</td><td style="text-align:center"><a href="http://www.dcloud.io/hellomui/index.html">http://www.dcloud.io/hellomui/index.html</a></td></tr><tr><td style="text-align:center">Mui入门教程</td><td style="text-align:center"><a href="https://zhuanlan.zhihu.com/p/361878292">https://zhuanlan.zhihu.com/p/361878292</a></td></tr><tr><td style="text-align:center">Mui页面传值</td><td style="text-align:center"><a href="https://ask.dcloud.net.cn/article/63">https://ask.dcloud.net.cn/article/63</a></td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mui </category>
+          
+          <category> 前端 </category>
+          
+          <category> 移动应用 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Mui </tag>
+            
+            <tag> 移动应用 </tag>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于Tg的说说</title>
       <link href="/posts/62461.html"/>
       <url>/posts/62461.html</url>
@@ -129,9 +162,9 @@
       
       <categories>
           
-          <category> Css </category>
-          
           <category> 前端 </category>
+          
+          <category> Css </category>
           
       </categories>
       
@@ -160,9 +193,9 @@
       
       <categories>
           
-          <category> Css </category>
-          
           <category> 前端 </category>
+          
+          <category> Css </category>
           
       </categories>
       
@@ -220,9 +253,9 @@
       
       <categories>
           
-          <category> Python </category>
-          
           <category> 笔记 </category>
+          
+          <category> Python </category>
           
       </categories>
       
@@ -276,11 +309,11 @@
       
       <categories>
           
-          <category> 笔记 </category>
-          
           <category> Mui </category>
           
           <category> 前端 </category>
+          
+          <category> 移动应用 </category>
           
       </categories>
       
@@ -289,9 +322,9 @@
             
             <tag> Mui </tag>
             
-            <tag> 前端 </tag>
-            
             <tag> 移动应用 </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -338,9 +371,9 @@
       
       <categories>
           
-          <category> 博客 </category>
-          
           <category> 笔记 </category>
+          
+          <category> 博客 </category>
           
       </categories>
       
