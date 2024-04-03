@@ -8,7 +8,7 @@
       <link href="/posts/40496.html"/>
       <url>/posts/40496.html</url>
       
-        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>工具地址：<a href="https://fpsplay.github.io/">酸奶会发光</a><br>作者的视频教程</p><iframe src="//player.bilibili.com/player.html?aid=602908112&bvid=BV11B4y137cf&cid=1143612800&p=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe><h2 id="安装驱动"><a href="#安装驱动" class="headerlink" title="安装驱动"></a>安装驱动</h2><ol><li>打开音效安装器</li><li>进入第一个 <strong>音效驱动</strong></li><li>点击 <strong>Next</strong></li><li>点击 <code>Add or Remove Features</code> </li><li>勾选如下驱动（不需要DTS可以不勾选）<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/1.webp" alt="1"></li><li>点击 <strong>Next</strong></li><li>点击 <strong>Install</strong> 安装</li></ol><h2 id="配置音效"><a href="#配置音效" class="headerlink" title="配置音效"></a>配置音效</h2><ol><li>进入第二个 <strong>音效配置</strong></li><li>点击顶部的 <strong>Endpoints</strong> 选择自己要安装的扬声器，如只是给扬声器安装，找到带有 <strong>[Active]</strong> 字样的即可<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/2.webp" alt="2"></li><li>先点击 <strong>Backup</strong> 备份<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/3.webp" alt="3"></li><li>点击 <strong>Product Config Tool</strong><br><img src="https://tuchuang.voooe.cn/images/2024/04/03/4.webp" alt="4"></li><li>点击 <strong>Products</strong> 选择 <strong>Dolby DAX3 UWP (DAPv251-VLLDP120)</strong><br><img src="https://tuchuang.voooe.cn/images/2024/04/03/5.webp" alt="5"></li><li>最后点击 <strong>Apply Product Settings to Selected Endpoints</strong> 应用</li></ol><h2 id="安装杜比全景声软件"><a href="#安装杜比全景声软件" class="headerlink" title="安装杜比全景声软件"></a>安装杜比全景声软件</h2><ol><li>点击 <strong>杜比全景声</strong> 会自动安装</li><li>安装成功后点击 <strong>重启服务</strong></li><li>打开任务管理器，等待出现两个 <strong>DAX API</strong> 进程</li></ol><h2 id="切换杜比"><a href="#切换杜比" class="headerlink" title="切换杜比"></a>切换杜比</h2><ol><li>点击想要切换的杜比</li><li>等待安装完成后重启服务</li></ol><h2 id="安装DTS"><a href="#安装DTS" class="headerlink" title="安装DTS"></a>安装DTS</h2><ol><li>重复上述操作，直到配置音效</li><li><strong>Products</strong> 换成 <strong>DTS APO3x UWP</strong></li><li>点击 <strong>Apply Product Settings to Selected Endpoints</strong> 应用</li><li>点击安装 <strong>DTS音效</strong></li><li>重启服务</li></ol><h2 id="完全卸载"><a href="#完全卸载" class="headerlink" title="完全卸载"></a>完全卸载</h2><ol><li>卸载音效软件</li><li>进入 <strong>音效配置</strong></li><li>点击 <strong>Restore</strong> </li><li>找到备份文件，恢复备份</li><li>点击 <strong>音效驱动</strong></li><li>点击 <strong>Remove</strong> 卸载驱动</li></ol>]]></content>
+        <content type="html"><![CDATA[<p><script>var postChatConfig = {  backgroundColor: "#3e86f6",  bottom: "16px",  left: "16px",  fill: "#FFFFFF",  width: "44px",  frameWidth: "375px",  frameHeight: "600px",  defaultInput: true,  upLoadWeb: true,  showInviteLink: true};</script></p><p><script data-postChat_key="c77057cbbe60fb5c99e2a0b7c1ec919546" src="https://ai.tianli0.top/static/public/postChatUser.min.js"></script></p><p><link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.13/tianli_gpt.css"></p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>工具地址：<a href="https://fpsplay.github.io/">酸奶会发光</a><br>作者的视频教程</p><iframe src="//player.bilibili.com/player.html?aid=602908112&bvid=BV11B4y137cf&cid=1143612800&p=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe><h2 id="安装驱动"><a href="#安装驱动" class="headerlink" title="安装驱动"></a>安装驱动</h2><ol><li>打开音效安装器</li><li>进入第一个 <strong>音效驱动</strong></li><li>点击 <strong>Next</strong></li><li>点击 <code>Add or Remove Features</code> </li><li>勾选如下驱动（不需要DTS可以不勾选）<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/1.webp" alt="1"></li><li>点击 <strong>Next</strong></li><li>点击 <strong>Install</strong> 安装</li></ol><h2 id="配置音效"><a href="#配置音效" class="headerlink" title="配置音效"></a>配置音效</h2><ol><li>进入第二个 <strong>音效配置</strong></li><li>点击顶部的 <strong>Endpoints</strong> 选择自己要安装的扬声器，如只是给扬声器安装，找到带有 <strong>[Active]</strong> 字样的即可<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/2.webp" alt="2"></li><li>先点击 <strong>Backup</strong> 备份<br><img src="https://tuchuang.voooe.cn/images/2024/04/03/3.webp" alt="3"></li><li>点击 <strong>Product Config Tool</strong><br><img src="https://tuchuang.voooe.cn/images/2024/04/03/4.webp" alt="4"></li><li>点击 <strong>Products</strong> 选择 <strong>Dolby DAX3 UWP (DAPv251-VLLDP120)</strong><br><img src="https://tuchuang.voooe.cn/images/2024/04/03/5.webp" alt="5"></li><li>最后点击 <strong>Apply Product Settings to Selected Endpoints</strong> 应用</li></ol><h2 id="安装杜比全景声软件"><a href="#安装杜比全景声软件" class="headerlink" title="安装杜比全景声软件"></a>安装杜比全景声软件</h2><ol><li>点击 <strong>杜比全景声</strong> 会自动安装</li><li>安装成功后点击 <strong>重启服务</strong></li><li>打开任务管理器，等待出现两个 <strong>DAX API</strong> 进程</li></ol><h2 id="切换杜比"><a href="#切换杜比" class="headerlink" title="切换杜比"></a>切换杜比</h2><ol><li>点击想要切换的杜比</li><li>等待安装完成后重启服务</li></ol><h2 id="安装DTS"><a href="#安装DTS" class="headerlink" title="安装DTS"></a>安装DTS</h2><ol><li>重复上述操作，直到配置音效</li><li><strong>Products</strong> 换成 <strong>DTS APO3x UWP</strong></li><li>点击 <strong>Apply Product Settings to Selected Endpoints</strong> 应用</li><li>点击安装 <strong>DTS音效</strong></li><li>重启服务</li></ol><h2 id="完全卸载"><a href="#完全卸载" class="headerlink" title="完全卸载"></a>完全卸载</h2><ol><li>卸载音效软件</li><li>进入 <strong>音效配置</strong></li><li>点击 <strong>Restore</strong> </li><li>找到备份文件，恢复备份</li><li>点击 <strong>音效驱动</strong></li><li>点击 <strong>Remove</strong> 卸载驱动</li></ol>]]></content>
       
       
       <categories>
@@ -278,9 +278,9 @@
       
       <categories>
           
-          <category> 笔记 </category>
-          
           <category> Python </category>
+          
+          <category> 笔记 </category>
           
       </categories>
       
@@ -396,9 +396,9 @@
       
       <categories>
           
-          <category> 笔记 </category>
-          
           <category> 博客 </category>
+          
+          <category> 笔记 </category>
           
       </categories>
       
