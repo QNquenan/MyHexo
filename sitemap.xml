@@ -285,20 +285,6 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/VM/</loc>
-    <lastmod>2024-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.quenan.love/tags/Pe/</loc>
-    <lastmod>2024-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.quenan.love/tags/alist/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,6 +300,20 @@
   
   <url>
     <loc>https://www.quenan.love/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <lastmod>2024-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/tags/VM/</loc>
+    <lastmod>2024-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.quenan.love/tags/Pe/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -404,14 +404,14 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/%E9%AD%94%E6%94%B9/</loc>
+    <loc>https://www.quenan.love/tags/%E8%B6%85%E9%93%BE%E6%8E%A5/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.quenan.love/tags/%E8%B6%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://www.quenan.love/tags/%E9%AD%94%E6%94%B9/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -441,7 +441,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/VM/</loc>
+    <loc>https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -455,7 +455,7 @@
   </url>
   
   <url>
-    <loc>https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.quenan.love/categories/VM/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
