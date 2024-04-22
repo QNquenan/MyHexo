@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>鹊楠の小窝</title>
+    <link>https://www.quenan.love/</link>
+    
+    <image>
+      <url>https://img2.imgtp.com/2024/03/19/fk3qPhkP.png</url>
+      <title>鹊楠の小窝</title>
+      <link>https://www.quenan.love/</link>
+    </image>
+    
+    <atom:link href="https://www.quenan.love/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>时不时写点文章</description>
+    <pubDate>Fri, 19 Apr 2024 03:30:44 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Windows安装alist并美化</title>
+      <link>https://www.quenan.love/posts/8255.html</link>
+      <guid>https://www.quenan.love/posts/8255.html</guid>
+      <pubDate>Fri, 19 Apr 2024 03:21:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文安装部分教程只针对 &lt;code&gt;Windows&lt;/code&gt; 系统毕竟 Linux 系统可以一键部署，不需要教了。&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/categories/%E7%BE%8E%E5%8C%96/">美化</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/alist/">alist</category>
+      
+      <category domain="https://www.quenan.love/tags/windows/">windows</category>
+      
+      <category domain="https://www.quenan.love/tags/%E7%BE%8E%E5%8C%96/">美化</category>
+      
+      
+      <comments>https://www.quenan.love/posts/8255.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>免费安装杜比全景声</title>
+      <link>https://www.quenan.love/posts/40496.html</link>
+      <guid>https://www.quenan.love/posts/40496.html</guid>
+      <pubDate>Wed, 03 Apr 2024 03:09:28 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;工具地址：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="https://www.quenan.love/tags/%E9%9F%B3%E6%95%88/">音效</category>
+      
+      
+      <comments>https://www.quenan.love/posts/40496.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Mui学习资料总结</title>
+      <link>https://www.quenan.love/posts/19977.html</link>
+      <guid>https://www.quenan.love/posts/19977.html</guid>
+      <pubDate>Mon, 01 Apr 2024 01:24:42 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;关于学习 &lt;code&gt;Mui&lt;/code&gt; 框架的一些资料总结&lt;/p&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/Mui/">Mui</category>
+      
+      <category domain="https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/categories/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/">移动应用</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/Mui/">Mui</category>
+      
+      <category domain="https://www.quenan.love/tags/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/">移动应用</category>
+      
+      <category domain="https://www.quenan.love/tags/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      
+      <comments>https://www.quenan.love/posts/19977.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>基于Tg的说说</title>
+      <link>https://www.quenan.love/posts/62461.html</link>
+      <guid>https://www.quenan.love/posts/62461.html</guid>
+      <pubDate>Fri, 29 Mar 2024 03:33:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;今天懒啊，很懒啊，不放图片了听不懂再在评论区问叭😜&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;项目起源于 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://www.quenan.love/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://www.quenan.love/tags/%E8%AF%B4%E8%AF%B4/">说说</category>
+      
+      <category domain="https://www.quenan.love/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <comments>https://www.quenan.love/posts/62461.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>用Xd画一个文章封面</title>
+      <link>https://www.quenan.love/posts/29665.html</link>
+      <guid>https://www.quenan.love/posts/29665.html</guid>
+      <pubDate>Wed, 27 Mar 2024 14:27:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;XD下载地址（学习版）&quot;&gt;&lt;a href=&quot;#XD下载地址（学习版）&quot; class=&quot;headerlink&quot; title=&quot;XD下载地址（学习版）&quot;&gt;&lt;/a&gt;XD下载地址（学习版）&lt;/h2&gt;&lt;p&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://www.quenan.love/tags/Xd/">Xd</category>
+      
+      
+      <comments>https://www.quenan.love/posts/29665.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>自用的bf导航栏魔改</title>
+      <link>https://www.quenan.love/posts/32069.html</link>
+      <guid>https://www.quenan.love/posts/32069.html</guid>
+      <pubDate>Mon, 25 Mar 2024 13:04:52 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://www.quenan.love/tags/%E9%AD%94%E6%94%B9/">魔改</category>
+      
+      
+      <comments>https://www.quenan.love/posts/32069.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在bf中部署Artitalk说说</title>
+      <link>https://www.quenan.love/posts/62222.html</link>
+      <guid>https://www.quenan.love/posts/62222.html</guid>
+      <pubDate>Mon, 25 Mar 2024 02:13:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;一直想给博客添加个说说功能，但是没时间搞，今天就来嗦一下 &lt;code&gt;hexo&lt;/code&gt; 框架下</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://www.quenan.love/categories/%E8%AF%B4%E8%AF%B4/">说说</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/Artitalk/">Artitalk</category>
+      
+      <category domain="https://www.quenan.love/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://www.quenan.love/tags/%E8%AF%B4%E8%AF%B4/">说说</category>
+      
+      
+      <comments>https://www.quenan.love/posts/62222.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>超链接动画样式</title>
+      <link>https://www.quenan.love/posts/42329.html</link>
+      <guid>https://www.quenan.love/posts/42329.html</guid>
+      <pubDate>Fri, 15 Mar 2024 06:59:48 GMT</pubDate>
+      
+      <description>纯Css写超链接的下划线动画样式</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/categories/Css/">Css</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/tags/Css/">Css</category>
+      
+      <category domain="https://www.quenan.love/tags/%E8%B6%85%E9%93%BE%E6%8E%A5/">超链接</category>
+      
+      
+      <comments>https://www.quenan.love/posts/42329.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>纯Css实现Input的动画样式</title>
+      <link>https://www.quenan.love/posts/56982.html</link>
+      <guid>https://www.quenan.love/posts/56982.html</guid>
+      <pubDate>Tue, 05 Mar 2024 10:14:37 GMT</pubDate>
+      
+      <description>纯Css写Input动画样式</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/categories/Css/">Css</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/tags/Css/">Css</category>
+      
+      
+      <comments>https://www.quenan.love/posts/56982.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>IDM激活，理论永久</title>
+      <link>https://www.quenan.love/posts/41885.html</link>
+      <guid>https://www.quenan.love/posts/41885.html</guid>
+      <pubDate>Tue, 27 Feb 2024 04:55:35 GMT</pubDate>
+      
+      <description>一行代码激活IDM</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="https://www.quenan.love/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/IDM/">IDM</category>
+      
+      <category domain="https://www.quenan.love/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <comments>https://www.quenan.love/posts/41885.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用Python下载图片</title>
+      <link>https://www.quenan.love/posts/49684.html</link>
+      <guid>https://www.quenan.love/posts/49684.html</guid>
+      <pubDate>Mon, 26 Feb 2024 03:08:07 GMT</pubDate>
+      
+      <description>用Python来写一个小程序批量下载图片</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="https://www.quenan.love/categories/Python/">Python</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="https://www.quenan.love/tags/Python/">Python</category>
+      
+      
+      <comments>https://www.quenan.love/posts/49684.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>VM虚拟机进入Pe系统</title>
+      <link>https://www.quenan.love/posts/35360.html</link>
+      <guid>https://www.quenan.love/posts/35360.html</guid>
+      <pubDate>Wed, 21 Feb 2024 14:11:25 GMT</pubDate>
+      
+      <description>VM虚拟机进入Pe系统笔记</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/VM/">VM</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/VM/">VM</category>
+      
+      <category domain="https://www.quenan.love/tags/Pe/">Pe</category>
+      
+      
+      <comments>https://www.quenan.love/posts/35360.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>侧滑菜单Div模式</title>
+      <link>https://www.quenan.love/posts/36597.html</link>
+      <guid>https://www.quenan.love/posts/36597.html</guid>
+      <pubDate>Tue, 20 Feb 2024 13:56:53 GMT</pubDate>
+      
+      <description>Muiの侧滑菜单Div模式笔记</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/Mui/">Mui</category>
+      
+      <category domain="https://www.quenan.love/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://www.quenan.love/categories/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/">移动应用</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/Mui/">Mui</category>
+      
+      <category domain="https://www.quenan.love/tags/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/">移动应用</category>
+      
+      <category domain="https://www.quenan.love/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <comments>https://www.quenan.love/posts/36597.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>SpringBootのGet请求新闻列表</title>
+      <link>https://www.quenan.love/posts/52089.html</link>
+      <guid>https://www.quenan.love/posts/52089.html</guid>
+      <pubDate>Wed, 07 Feb 2024 12:30:00 GMT</pubDate>
+      
+      <description>SpringBootのGet请求新闻列表案例笔记</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/Java/">Java</category>
+      
+      <category domain="https://www.quenan.love/categories/SpringBoot/">SpringBoot</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/SpringBoot/">SpringBoot</category>
+      
+      <category domain="https://www.quenan.love/tags/Java/">Java</category>
+      
+      
+      <comments>https://www.quenan.love/posts/52089.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Jsdelivr与渺软CDN使用笔记</title>
+      <link>https://www.quenan.love/posts/51705.html</link>
+      <guid>https://www.quenan.love/posts/51705.html</guid>
+      <pubDate>Mon, 05 Feb 2024 17:00:00 GMT</pubDate>
+      
+      <description>为健忘的我写一条使用笔记</description>
+      
+      
+      
+      
+      <category domain="https://www.quenan.love/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://www.quenan.love/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://www.quenan.love/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="https://www.quenan.love/tags/CDN/">CDN</category>
+      
+      <category domain="https://www.quenan.love/tags/%E6%B8%BA%E8%BD%AF/">渺软</category>
+      
+      
+      <comments>https://www.quenan.love/posts/51705.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
