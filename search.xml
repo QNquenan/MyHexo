@@ -115,11 +115,11 @@
       
         <tags>
             
-            <tag> Butterfly </tag>
+            <tag> 博客 </tag>
             
             <tag> 说说 </tag>
             
-            <tag> 博客 </tag>
+            <tag> Butterfly </tag>
             
         </tags>
       
@@ -200,11 +200,11 @@
       
         <tags>
             
-            <tag> Artitalk </tag>
+            <tag> 说说 </tag>
             
             <tag> Butterfly </tag>
             
-            <tag> 说说 </tag>
+            <tag> Artitalk </tag>
             
         </tags>
       
@@ -429,9 +429,9 @@
       
       <categories>
           
-          <category> 博客 </category>
-          
           <category> 笔记 </category>
+          
+          <category> 博客 </category>
           
       </categories>
       
